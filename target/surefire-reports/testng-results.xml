@@ -2,10 +2,10 @@
 <testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="FreeCRMTestAutomationnew.FreeCRMTestAutomationnew.AppTest" duration-ms="4" started-at="2020-03-25T02:08:28Z" finished-at="2020-03-25T02:08:28Z">
+  <suite name="FreeCRMTestAutomationnew.FreeCRMTestAutomationnew.AppTest" duration-ms="6" started-at="2020-03-25T02:54:37Z" finished-at="2020-03-25T02:54:37Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="4" started-at="2020-03-25T02:08:28Z" finished-at="2020-03-25T02:08:28Z">
+    <test name="Command line test" duration-ms="6" started-at="2020-03-25T02:54:37Z" finished-at="2020-03-25T02:54:37Z">
     </test> <!-- Command line test -->
   </suite> <!-- FreeCRMTestAutomationnew.FreeCRMTestAutomationnew.AppTest -->
 </testng-results>
